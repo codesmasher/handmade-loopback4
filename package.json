@@ -1,0 +1,15 @@
+{
+  "name": "handmade-loopback4",
+  "version": "1.0.0",
+  "description": "handmade-loopback4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loopback-application",
+    "loopback"
+  ],
+  "author": "Enrique Sotelo Ponce",
+  "license": "ISC"
+}
