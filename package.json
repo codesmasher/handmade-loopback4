@@ -4,6 +4,7 @@
   "description": "handmade-loopback4",
   "main": "index.js",
   "scripts": {
+    "build": "lb-tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,5 +12,10 @@
     "loopback"
   ],
   "author": "Enrique Sotelo Ponce",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@loopback/build": "^3.0.0",
+    "@types/node": "^12.12.17",
+    "typescript": "^3.7.3"
+  }
 }
